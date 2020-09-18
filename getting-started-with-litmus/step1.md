@@ -10,9 +10,7 @@ We are going to apply Chaos to `nginx` in this scenario. You can apply chaos to 
 
 **Next Let's deploy the nginx app on the default namespace**
 
-```bash
-kubectl create deploy nginx --image=nginx
-```
+`kubectl create deploy nginx --image=nginx`{{execute}}
 
 <span style="color:green">**Expected Output**</span>
 
@@ -22,9 +20,7 @@ deployment.apps/nginx created
 
 **Verify if the pods are in running state**
 
-```bash
-kubectl get pods --show-labels
-```
+`kubectl get pods --show-labels`{{execute}}
 
 You should be able to see something similar to this with a different hash attached to your pod label.
 

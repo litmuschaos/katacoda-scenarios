@@ -1,8 +1,8 @@
 # Interactive Katacoda Scenarios
 
-[![](http://shields.katacoda.com/katacoda/litmuschaos/count.svg)](https://www.katacoda.com/litmuschaos "Get your profile on Katacoda.com")
+[![](http://shields.katacoda.com/katacoda/litmusbot/count.svg)](https://www.katacoda.com/litmusbot "Get your profile on Katacoda.com")
 
-Visit https://www.katacoda.com/litmuschaos to view the profile and interactive scenarios
+Visit https://www.katacoda.com/litmusbot to view the profile and interactive scenarios
 
 ### Writing Scenarios
 Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
